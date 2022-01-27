@@ -1,0 +1,16 @@
+/home/therring/Workspace/optic/static/CMakeFiles/rebuild_cache.dir
+/home/therring/Workspace/optic/static/CMakeFiles/edit_cache.dir
+/home/therring/Workspace/optic/static/VALfiles/CMakeFiles/edit_cache.dir
+/home/therring/Workspace/optic/static/VALfiles/CMakeFiles/parser.dir
+/home/therring/Workspace/optic/static/VALfiles/CMakeFiles/rebuild_cache.dir
+/home/therring/Workspace/optic/static/VALfiles/CMakeFiles/Inst.dir
+/home/therring/Workspace/optic/static/VALfiles/CMakeFiles/validate.dir
+/home/therring/Workspace/optic/static/VALfiles/parsing/CMakeFiles/rebuild_cache.dir
+/home/therring/Workspace/optic/static/VALfiles/parsing/CMakeFiles/ParsePDDL.dir
+/home/therring/Workspace/optic/static/VALfiles/parsing/CMakeFiles/edit_cache.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/rebuild_cache.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/optic-clp.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/OpticCommon.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/edit_cache.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/doxygenoptic.dir
+/home/therring/Workspace/optic/static/optic/CMakeFiles/doc.dir
