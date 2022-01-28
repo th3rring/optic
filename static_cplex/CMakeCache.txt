@@ -345,7 +345,7 @@ MAKEINDEX_COMPILER:FILEPATH=/usr/bin/makeindex
 OSICLP_LIBRARIES:FILEPATH=/usr/lib/x86_64-linux-gnu/libOsiClp.so
 
 //Path to a file.
-OSI_INCLUDES:PATH=OSI_INCLUDES-NOTFOUND
+OSI_INCLUDES:PATH=/usr/include
 
 //Path to a library.
 OSI_LIBRARIES:FILEPATH=/usr/lib/x86_64-linux-gnu/libOsi.so
