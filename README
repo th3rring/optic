@@ -41,6 +41,10 @@ Compiling
 
 Compilation is in two stages:
 
+Sometimes, the OSI library's include files aren't found. When this happens,
+add /usr/include to the OSI_INCLUDES variable inside CMakeCache.txt in the
+build directory.
+
 1) Configure
 
 Run one of:
