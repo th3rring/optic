@@ -21,6 +21,7 @@ find_package(Cgl)
 find_package(OSI)
 find_package(GSL)
 find_package(LAPACK)
+find_package(DL)
 
 
 set(CMAKE_CXX_FLAGS "-Wall ${CMAKE_CXX_FLAGS}")
@@ -103,7 +104,7 @@ if(CPLEX AND ILOCPLEX AND CONCERT AND CPLEX_INCLUDES AND CONCERT_INCLUDES)
   target_link_libraries(
     optic-cplex
     OpticCommon
-    ${ILOCPLEX} ${CPLEX} ${CONCERT} pthread lapack blas gfortran quadmath
+    ${ILOCPLEX} ${CPLEX} ${CONCERT} pthread lapack blas gfortran quadmath dl
   )
   set_target_properties(optic-cplex PROPERTIES COMPILE_FLAGS "-DPOPF3ANALYSIS")
 
