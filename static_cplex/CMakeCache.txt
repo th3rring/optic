@@ -278,6 +278,9 @@ CPLEX:UNINITIALIZED=/opt/ibm/ILOG/CPLEX_Studio201/cplex/lib/x86-64_linux/static_
 //No help, variable specified on the command line.
 CPLEX_INCLUDES:UNINITIALIZED=/opt/ibm/ILOG/CPLEX_Studio201/cplex/include
 
+//The directory containing a CMake configuration file for DL.
+DL_DIR:PATH=DL_DIR-NOTFOUND
+
 //Dot tool for use with Doxygen
 DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/bin/dot
 

@@ -266,6 +266,9 @@ COINUTILS_INCLUDES:PATH=/usr/include
 //Path to a library.
 COINUTILS_LIBRARIES:FILEPATH=/usr/lib/x86_64-linux-gnu/libCoinUtils.so
 
+//The directory containing a CMake configuration file for DL.
+DL_DIR:PATH=DL_DIR-NOTFOUND
+
 //Dot tool for use with Doxygen
 DOXYGEN_DOT_EXECUTABLE:FILEPATH=/usr/bin/dot
 

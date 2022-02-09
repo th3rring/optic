@@ -31,9 +31,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/therring/Workspace/optic/src/VALfiles"
   "/home/therring/Workspace/optic/src/VALfiles/parsing"
   "VALfiles"
-  "/home/therring/Workspace/optic/src/optic/CLP_INCLUDES-NOTFOUND/coin"
-  "/home/therring/Workspace/optic/src/optic/CBC_INCLUDES-NOTFOUND/coin"
-  "GSL_INCLUDES-NOTFOUND"
+  "/usr/include/coin"
   )
 
 # Targets to which this target links.

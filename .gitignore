@@ -1,4 +1,6 @@
-./static*
-./debug*
-./release*
+static/*
+debug/*
+release/*
+static_cplex/*
+
 
